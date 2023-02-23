@@ -2,6 +2,7 @@
 In this course we will explore the use of container technology in delivering 
 the goal of reproducible research.    
 
+
 ## Goals for reproducible computing environments   
 You've just written your paper and you are required to publish details of 
 your analytical pipeline. You publish your code in github so people can download
