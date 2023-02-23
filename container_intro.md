@@ -1,4 +1,5 @@
 # Introduction to Containers for reproducibility
+_By Mark Fernandes_
 In this course we will explore the use of container technology in delivering 
 the goal of reproducible research.    
 
