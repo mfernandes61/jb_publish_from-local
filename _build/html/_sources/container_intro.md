@@ -1,6 +1,9 @@
 # Introduction to Containers for reproducibility
+_By Mark Fernandes_
+
 In this course we will explore the use of container technology in delivering 
 the goal of reproducible research.    
+
 
 ## Goals for reproducible computing environments   
 You've just written your paper and you are required to publish details of 
@@ -23,3 +26,8 @@ dates or file paths.
 We can try to overcome these issues by publishing computational environments:-
 * Virtual Machines
 * Containers 
+Virtual Machines (VMs) seek to emulate an entire computer and its operating system. This can be 
+very faithful to the real computer and software installation and execution will occur as if on a 
+'real' machine.   
+The down-side that this uses a similar amount of resources (cpu, ram, disk) as a real machine. 
+This can get expensive if we wisk to run more than one VM on our host machine.
